@@ -3,7 +3,6 @@
 
 
 from vedo import *
-import time
 
 def RotationMatrix(theta, axis_name):
     """ calculate single rotation of $theta$ matrix around x,y or z
